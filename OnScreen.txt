@@ -1,6 +1,1 @@
-using commonsense
-
-while(alive == true)
-{
-    determination.value = 1;
-}
+let's see if this will work OwO
