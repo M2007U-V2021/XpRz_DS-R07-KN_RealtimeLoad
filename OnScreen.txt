@@ -1,1 +1,6 @@
-Newo, This is a Test. Salute to the VRC devs~ OwO/ Vs in the chat~
+using commonsense
+
+while(alive == true)
+{
+    determination.value = 1;
+}
